@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maars202.github.io/csb-cyh12/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://maars202.github.io/csb-cyh12/static/js/main.d85081cb.chunk.js",
+    "main.js.map": "https://maars202.github.io/csb-cyh12/static/js/main.d85081cb.chunk.js.map",
+    "runtime-main.js": "https://maars202.github.io/csb-cyh12/static/js/runtime-main.d83b6bdb.js",
+    "runtime-main.js.map": "https://maars202.github.io/csb-cyh12/static/js/runtime-main.d83b6bdb.js.map",
+    "static/js/2.23032e1c.chunk.js": "https://maars202.github.io/csb-cyh12/static/js/2.23032e1c.chunk.js",
+    "static/js/2.23032e1c.chunk.js.map": "https://maars202.github.io/csb-cyh12/static/js/2.23032e1c.chunk.js.map",
+    "index.html": "https://maars202.github.io/csb-cyh12/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://maars202.github.io/csb-cyh12/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.23032e1c.chunk.js.LICENSE.txt": "https://maars202.github.io/csb-cyh12/static/js/2.23032e1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d83b6bdb.js",
+    "static/js/2.23032e1c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d85081cb.chunk.js"
+  ]
+}
